@@ -2,6 +2,15 @@
 using System.Linq;
 using System.Data;
 
+
+/*
+ *  What is DataTable ?
+ *      
+ *      DataTable is a class in the System.Data namespace that represents an in-memory table of data.
+ *      A virtual database table stored in memory  made of rows and columns just like a SQL table
+ *  
+ * 
+ */
 public class Example
 {
 

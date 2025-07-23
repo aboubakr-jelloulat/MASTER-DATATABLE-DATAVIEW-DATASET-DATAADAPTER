@@ -5,3 +5,4 @@ C:\Users\HP\Desktop\MASTER-DATATABLE-DATAVIEW-DATASET-DATAADAPTER\ADO.NET DataPr
 C:\Users\HP\Desktop\MASTER-DATATABLE-DATAVIEW-DATASET-DATAADAPTER\ADO.NET DataProviders\DataTable\obj\Debug\DataTable.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\MASTER-DATATABLE-DATAVIEW-DATASET-DATAADAPTER\ADO.NET DataProviders\DataTable\obj\Debug\DataTable.exe
 C:\Users\HP\Desktop\MASTER-DATATABLE-DATAVIEW-DATASET-DATAADAPTER\ADO.NET DataProviders\DataTable\obj\Debug\DataTable.pdb
+C:\Users\HP\Desktop\MASTER-DATATABLE-DATAVIEW-DATASET-DATAADAPTER\ADO.NET DataProviders\DataTable\obj\Debug\DataTable.exe.config
