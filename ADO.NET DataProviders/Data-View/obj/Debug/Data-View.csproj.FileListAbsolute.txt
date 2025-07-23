@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\MASTER-DATATABLE-DATAVIEW-DATASET-DATAADAPTER\ADO.NET DataProviders\Data-View\obj\Debug\Data-View.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MASTER-DATATABLE-DATAVIEW-DATASET-DATAADAPTER\ADO.NET DataProviders\Data-View\obj\Debug\Data-View.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MASTER-DATATABLE-DATAVIEW-DATASET-DATAADAPTER\ADO.NET DataProviders\Data-View\bin\Debug\Data-View.exe.config
+C:\Users\HP\Desktop\MASTER-DATATABLE-DATAVIEW-DATASET-DATAADAPTER\ADO.NET DataProviders\Data-View\bin\Debug\Data-View.exe
+C:\Users\HP\Desktop\MASTER-DATATABLE-DATAVIEW-DATASET-DATAADAPTER\ADO.NET DataProviders\Data-View\bin\Debug\Data-View.pdb
+C:\Users\HP\Desktop\MASTER-DATATABLE-DATAVIEW-DATASET-DATAADAPTER\ADO.NET DataProviders\Data-View\obj\Debug\Data-View.exe
+C:\Users\HP\Desktop\MASTER-DATATABLE-DATAVIEW-DATASET-DATAADAPTER\ADO.NET DataProviders\Data-View\obj\Debug\Data-View.pdb
+C:\Users\HP\Desktop\MASTER-DATATABLE-DATAVIEW-DATASET-DATAADAPTER\ADO.NET DataProviders\Data-View\obj\Debug\Data-View.exe.config
